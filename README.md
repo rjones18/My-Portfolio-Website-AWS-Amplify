@@ -8,7 +8,9 @@ Link to my portfolio: https://portfolio.reggiestestdomain.com
 
 ## Website Breakdown
 
-The construction of the website broken down into the parts below:
+The construction of the website broken down into the architecture below:
+
+![Amplify](https://github.com/rjones18/Images/blob/main/Amplify.drawio.png)
 
 ### Front-End
 
@@ -19,3 +21,13 @@ The construction of the website broken down into the parts below:
 ### Deployment Platform
 
 - [AWS Amplify](https://aws.amazon.com/amplify/)
+
+### DNS
+
+- [Route 53](https://aws.amazon.com/route53/)
+
+
+### SSL Certificate
+
+- Provided through AWS Amplify
+
