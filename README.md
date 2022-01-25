@@ -4,7 +4,6 @@ In this project I created a portfolio website using HTML, CSS, and Javascript. T
 Link to my portfolio: https://portfolio.reggiestestdomain.com
 
 
----
 
 ## Website Breakdown
 
